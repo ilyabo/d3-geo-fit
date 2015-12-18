@@ -1,0 +1,16 @@
+{
+  "name": "d3-geo-fit",
+  "version": "1.0.0",
+  "description": "Calculates the projection transform of the given d3 geo path to fit the given geometry features into the given widht/height.",
+  "main": "index.js",
+  "author": "Ilya Boyandin",
+  "peerDependencies": {
+    "d3": "*"
+  },
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/ilyabo/d3-geo-fit.git"
+  }
+
+}
